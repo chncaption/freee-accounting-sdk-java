@@ -103,7 +103,7 @@
             </goals>
           </execution>
         </executions>
-        <configuration></configuration>
+        <configuration/>
       </plugin>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
@@ -280,7 +280,7 @@
     <dependency>
       <groupId>org.openapitools</groupId>
       <artifactId>jackson-databind-nullable</artifactId>
-      <version>0.2.1</version>
+      <version>0.2.2</version>
     </dependency>
     <!-- test dependencies -->
     <dependency>
